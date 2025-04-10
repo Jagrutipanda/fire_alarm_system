@@ -1,5 +1,5 @@
 <?php
-$host = "localhost"; // or check Hostinger's DB Hostname
+$host = "193.203.184.156"; // or check Hostinger's DB Hostname
 $username = "u807244070_gpbbsr";
 $password = "Jagrut@2006";
 $database = "u807244070_gpbbsr";
